@@ -1,0 +1,2 @@
+export DB_CONNECTION=sqlite
+export DB_DATABASE=/home/lyes/Dev/Laravel/Application-Scolarit-/database/database.sqlite
